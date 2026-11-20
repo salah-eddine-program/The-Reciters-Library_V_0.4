@@ -1,0 +1,17 @@
+{
+  "name": "مشغل القرآن الكريم",
+  "short_name": "مشغل القرآن",
+  "description": "استمع إلى القرآن الكريم بأصوات نخبة من القراء وبمختلف الروايات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b2631",
+  "theme_color": "#1b2631",
+  "icons": [
+    { "src": "icon-96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
